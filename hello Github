@@ -1,0 +1,14 @@
+using System;
+
+
+namespace ConsoleApplication3
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello GITHUB This is my first Program");
+            Console.ReadLine();
+        }
+    }
+}
