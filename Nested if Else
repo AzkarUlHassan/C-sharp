@@ -1,0 +1,30 @@
+using System;
+
+
+namespace ConsoleApp17
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please Enter Your Age ");
+            int age;
+            age =Convert.ToInt32(Console.ReadLine());
+            if (age >=14)
+            {
+                 if (age >= 18)
+                        Console.WriteLine("Your are looking Young");
+            else
+                    Console.WriteLine("Your looking teenager");     
+            }
+            else
+            {
+                if (age > 0)
+                    Console.WriteLine("You are Looking Child");
+                else Console.WriteLine("Some thing went wrong ");
+            }
+            
+            Console.ReadLine();
+        }
+    }
+}
