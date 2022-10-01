@@ -1,0 +1,32 @@
+using System;
+namespace ConsoleApp15
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a;
+            int b;
+            int c;
+            a = Convert.ToInt32(Console.ReadLine());
+            b = Convert.ToInt32(Console.ReadLine());
+            c = Convert.ToInt32(Console.ReadLine());
+            if (a > b || b > c)
+            {
+                Console.WriteLine("A is Greater Than B & C ");
+                if (b > a || b > c)
+                {
+
+                    Console.WriteLine("B is Greater than A and C");
+                }
+                //else
+                //{
+                //    Console.WriteLine("C is Greater Than A and B");
+                //};
+            }
+            else { Console.WriteLine("C is Greater"); }
+
+            Console.ReadLine();
+        }
+    }
+}
