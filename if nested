@@ -1,0 +1,27 @@
+using System;
+
+
+namespace ConsoleApp16
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int marks;
+            marks = Convert.ToInt32(Console.ReadLine()); 
+            if (marks  >=50)
+            {
+                Console.WriteLine("Congratulations You have Passed ");
+                if(marks >=80)
+                {
+                    Console.WriteLine("You have Got A Grade");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Opps You have failed .Try Again");
+            }
+            Console.ReadLine();
+        }
+    }
+}
