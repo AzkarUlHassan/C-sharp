@@ -1,0 +1,33 @@
+using System;
+
+
+namespace ConsoleApp18
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int var1;
+            int var2;
+            var1=Convert.ToInt32(Console.ReadLine());
+            var2=Convert.ToInt32(Console.ReadLine());
+            if(var1!=var2)
+            {
+                Console.WriteLine("Variable 1 is not equal to variable 2");
+            }
+            else if (var1>var2)
+            {
+                Console.WriteLine("Variable 1 is greater than variable 2");
+            }
+            else if(var2>var1)
+            {
+                Console.WriteLine("Variable 2 is greater than variable 1");
+            }
+            else
+            {
+                Console.WriteLine("Both variables are equal");
+            }
+            Console.ReadLine();
+        }
+    }
+}
