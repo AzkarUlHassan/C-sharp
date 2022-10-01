@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp20
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            int num;
+            Console.WriteLine("Please Enter Yourr number to print table");
+            num = Convert.ToInt32(Console.ReadLine());
+            int i = 1;
+            do
+            {
+                Console.WriteLine(i + " X " + num + "=" + num * i);
+                i++;
+            } while (i<=10);
+            Console.ReadLine();
+
+        }
+    }
+}
