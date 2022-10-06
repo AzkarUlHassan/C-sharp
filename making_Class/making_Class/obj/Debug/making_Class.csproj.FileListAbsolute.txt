@@ -1,0 +1,16 @@
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\bin\Debug\making_Class.exe.config
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\bin\Debug\making_Class.exe
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\bin\Debug\making_Class.pdb
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\obj\Debug\making_Class.csproj.AssemblyReference.cache
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\obj\Debug\making_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\obj\Debug\making_Class.csproj.CoreCompileInputs.cache
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\obj\Debug\making_Class.exe
+C:\Users\Azkar Ul Hassan\source\repos\making_Class\making_Class\obj\Debug\making_Class.pdb
+D:\C #\Projects\making_Class\making_Class\bin\Debug\making_Class.exe.config
+D:\C #\Projects\making_Class\making_Class\bin\Debug\making_Class.exe
+D:\C #\Projects\making_Class\making_Class\bin\Debug\making_Class.pdb
+D:\C #\Projects\making_Class\making_Class\obj\Debug\making_Class.csproj.AssemblyReference.cache
+D:\C #\Projects\making_Class\making_Class\obj\Debug\making_Class.csproj.SuggestedBindingRedirects.cache
+D:\C #\Projects\making_Class\making_Class\obj\Debug\making_Class.csproj.CoreCompileInputs.cache
+D:\C #\Projects\making_Class\making_Class\obj\Debug\making_Class.exe
+D:\C #\Projects\making_Class\making_Class\obj\Debug\making_Class.pdb
